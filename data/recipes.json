@@ -1,0 +1,44 @@
+[
+  {
+    "id": "classic-brasaland-burger",
+    "title": "The Classic Brasaland Burger",
+    "category": "Grill",
+    "language": "en",
+    "metadata": {
+      "prep_time_mins": 10,
+      "cook_time_mins": 8,
+      "grill_temperature_f": 450
+    },
+    "ingredients": [
+      { "name": "Ground Beef Patty (80/20)", "quantity": 1, "unit": "item" },
+      { "name": "Brasaland Special Seasoning", "quantity": 1, "unit": "tbsp" },
+      { "name": "Brioche Bun", "quantity": 1, "unit": "item" }
+    ],
+    "instructions": [
+      { "step": 1, "description": "Preheat the grill to 450°F." },
+      { "step": 2, "description": "Season both sides of the patty evenly with Brasaland Special Seasoning." },
+      { "step": 3, "description": "Grill the patty for 4 minutes on each side for a perfect medium-well finish." }
+    ]
+  },
+  {
+    "id": "hamburguesa-clasica-brasaland",
+    "title": "La Hamburguesa Clásica Brasaland",
+    "category": "Grill",
+    "language": "es",
+    "metadata": {
+      "prep_time_mins": 10,
+      "cook_time_mins": 8,
+      "grill_temperature_f": 450
+    },
+    "ingredients": [
+      { "name": "Carne para Hamburguesa (80/20)", "quantity": 1, "unit": "unidad" },
+      { "name": "Sazón Especial Brasaland", "quantity": 1, "unit": "cucharada" },
+      { "name": "Pan Brioche", "quantity": 1, "unit": "unidad" }
+    ],
+    "instructions": [
+      { "step": 1, "description": "Precalentar la parrilla a 450°F." },
+      { "step": 2, "description": "Sazonar ambos lados de la carne de manera uniforme con el Sazón Especial Brasaland." },
+      { "step": 3, "description": "Asar la carne durante 4 minutos por cada lado para un término tres cuartos perfecto." }
+    ]
+  }
+]
